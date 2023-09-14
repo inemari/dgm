@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DungeonMaster", "DungeonMaster.csproj", "{646F16F3-0DC9-4256-B374-F4B0AEE83191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonMasterTests", "..\DungeonMasterTests\DungeonMasterTests.csproj", "{B7659C57-67EE-4868-9902-5469969BD3E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{646F16F3-0DC9-4256-B374-F4B0AEE83191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646F16F3-0DC9-4256-B374-F4B0AEE83191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646F16F3-0DC9-4256-B374-F4B0AEE83191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646F16F3-0DC9-4256-B374-F4B0AEE83191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7659C57-67EE-4868-9902-5469969BD3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7659C57-67EE-4868-9902-5469969BD3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7659C57-67EE-4868-9902-5469969BD3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7659C57-67EE-4868-9902-5469969BD3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9607E8-843C-475D-915A-A47C572F6754}
+	EndGlobalSection
+EndGlobal

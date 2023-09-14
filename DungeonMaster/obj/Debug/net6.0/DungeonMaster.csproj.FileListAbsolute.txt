@@ -1,0 +1,14 @@
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\bin\Debug\net6.0\DungeonMaster.exe
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\bin\Debug\net6.0\DungeonMaster.deps.json
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\bin\Debug\net6.0\DungeonMaster.runtimeconfig.json
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\bin\Debug\net6.0\DungeonMaster.dll
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\bin\Debug\net6.0\DungeonMaster.pdb
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.AssemblyInfoInputs.cache
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.AssemblyInfo.cs
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.csproj.CoreCompileInputs.cache
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.dll
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\refint\DungeonMaster.dll
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.pdb
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\DungeonMaster.genruntimeconfig.cache
+C:\dev\git\noroff\projects\backend\Assignment 1\DungeonMaster\obj\Debug\net6.0\ref\DungeonMaster.dll
