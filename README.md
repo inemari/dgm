@@ -26,36 +26,32 @@ Item Classes:
 - The project relies on a well-defined hierarchy of item classes. The "Item" parent class serves as the foundation for weapons and armor, providing consistent attributes like name, required level, and slot. Enums categorize weapon and armor types, simplifying item management.
 
 ## Running the Project
+
 To run DungeonMaster and embark on your RPG adventure, follow these steps:
 
-```dotnet```
+### Prerequisites
 
-Prerequisites:
+- Make sure you have [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0) installed on your system.
 
-Make sure you have .NET 6 installed on your system.
-Clone the Repository:
+### Clone the Repository
 
 If you haven't already, clone the DungeonMaster repository to your local machine using Git:
 
-bash
-Copy code
+```bash
 git clone https://github.com/your-username/DungeonMaster.git
-Navigate to the Project Directory:
-
+Navigate to the Project Directory
 Move to the project directory:
 
 bash
 Copy code
 cd DungeonMaster
-Build the Project:
-
+Build the Project
 To build the project and compile the code, run the following command:
 
 bash
 Copy code
 dotnet build
-Run the Application:
-
+Run the Application
 Now, you're ready to run DungeonMaster! Use the following command to start the application:
 
 bash
