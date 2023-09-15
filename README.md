@@ -37,20 +37,18 @@ To run DungeonMaster and embark on your RPG adventure, follow these steps:
 
 If you haven't already, clone the DungeonMaster repository to your local machine using Git:
 
-```bash
-git clone https://github.com/your-username/DungeonMaster.git
+
+```git clone https://github.com/your-username/DungeonMaster.git```
 Navigate to the Project Directory
 Move to the project directory:
 
-bash
 Copy code
-cd DungeonMaster
+```cd DungeonMaster```
 Build the Project
 To build the project and compile the code, run the following command:
 
-bash
 Copy code
-dotnet build
+```dotnet build```
 Run the Application
 Now, you're ready to run DungeonMaster! Use the following command to start the application:
 
