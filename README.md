@@ -42,8 +42,8 @@ Move to the project directory:<br>
 ```cd DungeonMaster```
 
 ###Build the Project
-To build the project and compile the code, run the following command:<br>
-```dotnet build```
+>To build the project and compile the code, run the following command:<br>
+>```dotnet build```
 
 
 ###Run the Application
