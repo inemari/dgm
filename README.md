@@ -19,7 +19,7 @@ DungeonMaster's class structure revolves around hero classes, weapon classes, ar
 **Hero Classes:** 
 - DungeonMaster features diverse hero classes such as Wizard, Archer, Barbarian, and Swashbuckler. They inherit essential attributes from a common parent class, "Hero," including strength, dexterity, and intelligence. Heroes can equip specific armor and weapon types, with unique attribute variations specified within enums.
 
-**HeroAttribute Class: **
+**HeroAttribute Class:**
 - The HeroAttribute class manages a hero's attributes, including strength, dexterity, and intelligence. It enables structured attribute management and tracking as heroes level up and equip items.
 
 **Item Classes:**
