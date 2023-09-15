@@ -26,11 +26,9 @@ DungeonMaster's class structure revolves around hero classes, weapon classes, ar
 - The project relies on a well-defined hierarchy of item classes. The "Item" parent class serves as the foundation for weapons and armor, providing consistent attributes like name, required level, and slot. Enums categorize weapon and armor types, simplifying item management.
 
 ## Running the Project
-
 To run DungeonMaster and embark on your RPG adventure, follow these steps:
 
 ### Prerequisites
-
 - Make sure you have [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0) installed on your system.<br>
 
 ### Clone the Repository
@@ -42,8 +40,8 @@ Move to the project directory:<br>
 ```cd DungeonMaster```
 
 ###Build the Project
->To build the project and compile the code, run the following command:<br>
->```dotnet build```
+To build the project and compile the code, run the following command:<br>
+```dotnet build```
 
 
 ###Run the Application
