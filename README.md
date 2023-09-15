@@ -39,12 +39,12 @@ If you haven't already, clone the DungeonMaster repository to your local machine
 Move to the project directory:<br>
 ```cd DungeonMaster```
 
-###Build the Project
+### Build the Project
 To build the project and compile the code, run the following command:<br>
 ```dotnet build```
 
 
-###Run the Application
+### Run the Application
 Now, you're ready to run DungeonMaster! Use the following command to start the application:<br>
 ```dotnet run```<br>
 This command will launch the console application, and you'll be greeted with options to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes within the RPG simulation.<br>
