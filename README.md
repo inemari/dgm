@@ -51,6 +51,6 @@ To build the project and compile the code, run the following command:<br>
 Now, you're ready to run DungeonMaster! Use the following command to start the application:<br>
 ```dotnet run```<br>
 <br>
-This command will launch the console application, and you'll be greeted with options to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes within the RPG simulation.
+This command will launch the console application, at this point nothing will be displayed, but you can run the tests to see that everything works!
 <br>
 <br>Enjoy your DungeonMaster experience!
