@@ -31,26 +31,23 @@ To run DungeonMaster and embark on your RPG adventure, follow these steps:
 
 ### Prerequisites
 
-- Make sure you have [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0) installed on your system.
+- Make sure you have [.NET 6](https://dotnet.microsoft.com/download/dotnet/6.0) installed on your system.<br>
 
 ### Clone the Repository
-If you haven't already, clone the DungeonMaster repository to your local machine using Git:
+If you haven't already, clone the DungeonMaster repository to your local machine using Git:<br>
 ```git clone https://github.com/your-username/DungeonMaster.git```
 
 ### Navigate to the Project Directory
-Move to the project directory:
+Move to the project directory:<br>
 ```cd DungeonMaster```
 
 ###Build the Project
-To build the project and compile the code, run the following command:
+To build the project and compile the code, run the following command:<br>
 ```dotnet build```
 
 
 ###Run the Application
-
-Now, you're ready to run DungeonMaster! Use the following command to start the application:
-```dotnet run```
-
-This command will launch the console application, and you'll be greeted with options to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes within the RPG simulation.
-
+Now, you're ready to run DungeonMaster! Use the following command to start the application:<br>
+```dotnet run```<br>
+This command will launch the console application, and you'll be greeted with options to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes within the RPG simulation.<br>
 Enjoy your DungeonMaster experience!
