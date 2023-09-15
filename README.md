@@ -5,7 +5,7 @@
 DungeonMaster is a C# console application developed in .NET 6. It serves as a role-playing game (RPG) simulation, allowing users to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes.
 
 ## About Me:
-I'm Ine, and my journey has taken me from North Norway to an international career in fashion modeling across various countries. My experiences in modeling sparked an interest in fashion photography as a hobby. Later, I pursued studies in IT and Information Systems, where I discovered the art of harmonizing aesthetics with functionality, ultimately leading me to embrace front-end development. Currently, I'm actively working towards my goal of becoming a full-stack developer, with a particular passion for front-end development.
+I'm Ine, a creative individual hailing from North Norway. My journey spans international fashion modeling in Athens, Milan, and Istanbul, but my true passion lies in crafting digital experiences. My academic background in IT and Information Systems introduced me to User Experience (UX) design, which I find both enjoyable and fulfilling. I'm actively working towards becoming a full-stack developer, with a particular focus on front-end development. In my free time, I relish moments with my beloved dog, Chico, enjoy girls' nights, retail therapy, and savor outdoor beers on sunny days.
 
 ## Implementation:
 The project is implemented in C# using the .NET 6 framework, following robust object-oriented programming principles. It features a structured hierarchy of hero classes, weapon classes, and armor classes, each designed to represent key elements of the game. Custom exceptions are incorporated to handle invalid equipment choices.
