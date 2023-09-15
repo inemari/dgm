@@ -25,3 +25,42 @@ HeroAttribute Class:
 Item Classes: 
 - The project relies on a well-defined hierarchy of item classes. The "Item" parent class serves as the foundation for weapons and armor, providing consistent attributes like name, required level, and slot. Enums categorize weapon and armor types, simplifying item management.
 
+## Running the Project
+To run DungeonMaster and embark on your RPG adventure, follow these steps:
+
+```dotnet```
+
+Prerequisites:
+
+Make sure you have .NET 6 installed on your system.
+Clone the Repository:
+
+If you haven't already, clone the DungeonMaster repository to your local machine using Git:
+
+bash
+Copy code
+git clone https://github.com/your-username/DungeonMaster.git
+Navigate to the Project Directory:
+
+Move to the project directory:
+
+bash
+Copy code
+cd DungeonMaster
+Build the Project:
+
+To build the project and compile the code, run the following command:
+
+bash
+Copy code
+dotnet build
+Run the Application:
+
+Now, you're ready to run DungeonMaster! Use the following command to start the application:
+
+bash
+Copy code
+dotnet run
+This command will launch the console application, and you'll be greeted with options to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes within the RPG simulation.
+
+Enjoy your DungeonMaster experience!
