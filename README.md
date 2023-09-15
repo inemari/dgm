@@ -22,7 +22,7 @@ Hero Classes:
 HeroAttribute Class: 
 - The HeroAttribute class manages a hero's attributes, including strength, dexterity, and intelligence. It enables structured attribute management and tracking as heroes level up and equip items.
 
-Item Classes: 
+Item Classes: **Bold**
 - The project relies on a well-defined hierarchy of item classes. The "Item" parent class serves as the foundation for weapons and armor, providing consistent attributes like name, required level, and slot. Enums categorize weapon and armor types, simplifying item management.
 
 ## Running the Project
