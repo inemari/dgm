@@ -3,13 +3,15 @@
 
 ## Product Overview:
 DungeonMaster is a C# console application developed in .NET 6. It serves as a role-playing game (RPG) simulation, allowing users to explore different hero classes, equip weapons and armor, level up heroes, and manage their attributes.
-
+<br>
+<br>
 ## About Me:
 I'm Ine, a creative individual originating from North Norway. My journey spans international fashion modeling in Athens, Milan, and Istanbul, but my true passion lies in crafting digital experiences. My academic background in IT and Information Systems introduced me to User Experience (UX) design and development, which I find both enjoyable and fulfilling. I'm actively working towards becoming a full-stack developer, with a particular focus on front-end development. In my free time, I relish moments with my beloved dog, Chico, enjoy girls' nights, retail therapy, and savor outdoor beers on sunny days.
-
+<br>
+<br>
 ## Implementation:
 The project is implemented in C# using the .NET 6 framework, following robust object-oriented programming principles. It features a structured hierarchy of hero classes, weapon classes, and armor classes, each designed to represent key elements of the game. Custom exceptions are incorporated to handle invalid equipment choices.
-
+<br>
 ### Testing:
 Our testing approach primarily consists of unit tests, targeting specific components or functions in isolation. This meticulous assessment ensures that each function operates correctly and produces expected results. The xUnit testing framework streamlines test creation and execution. Various test scenarios, including equipment interactions and hero leveling, are covered.
 
@@ -24,7 +26,8 @@ DungeonMaster's class structure revolves around hero classes, weapon classes, ar
 
 **Item Classes:**
 - The project relies on a well-defined hierarchy of item classes. The "Item" parent class serves as the foundation for weapons and armor, providing consistent attributes like name, required level, and slot. Enums categorize weapon and armor types, simplifying item management.
-
+<br>
+<br>
 ## Running the Project
 To run DungeonMaster and embark on your RPG adventure, follow these steps:
 
